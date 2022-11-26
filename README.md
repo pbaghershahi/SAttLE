@@ -45,12 +45,13 @@ WN18RR | 0.476 | 0.442 | 0.490 | 0.540
 
 Please cite the following paper if you find it useful:
 ```bash
-@misc{baghershahi2021selfattention,
-      title={Self-attention Presents Low-dimensional Knowledge Graph Embeddings for Link Prediction}, 
-      author={Peyman Baghershahi and Reshad Hosseini and Hadi Moradi},
-      year={2021},
-      eprint={2112.10644},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+@article{BAGHERSHAHI2022110124,
+title = {Self-attention presents low-dimensional knowledge graph embeddings for link prediction},
+journal = {Knowledge-Based Systems},
+pages = {110124},
+year = {2022},
+issn = {0950-7051},
+doi = {https://doi.org/10.1016/j.knosys.2022.110124},
+author = {Peyman Baghershahi and Reshad Hosseini and Hadi Moradi},
 }
 ```
